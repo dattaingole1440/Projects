@@ -1,0 +1,138 @@
+.main{
+    height: 1000px;
+    width: 1560px;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/683/417/245/black-panther-4k-wallpaper-preview.jpg");
+      background-repeat: no-repeat;    
+background-size: cover;
+background-attachment: fixed;
+
+}
+.nav{
+background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIALEAvAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAQIDBAUG/8QAKxABAQACAAUDAgUFAAAAAAAAAAECEQMSITFBUWFxBCIUMkKBwRNSkaGx/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv/EAB4RAQEBAQABBQEAAAAAAAAAAAABAhFBAxIhMVFx/9oADAMBAAIRAxEAPwD8uiVHpvqrfgrK1nYZWlYLWQy1rwAGyANgdFjNpvZ8TdRqpbpKgmWd9ThabErSYn2w361oCVbmuulBKcZ2lKVFyIugBbK6e6JVrNee+u1eJtLlpMs/DAYa2qAbLoBT4m6Nm0D4i66FKhyM7eAJWkjn3ooJVMrSglEZ2lKFXIi1Aawx5t23WM73+FstaMMebdt1jO9a/rZ49OHlyY+IznlzakmsZ2noybLr1XOeGbltkefx9Rd9VA2aLQNmrcpMet9D4i3kBq3k6Y2b85ePhjr76NEtpChTkO3iCFXI5taKCVTG0oBs7UpUFSItAPnt5Wz1prDDm3bdYzvf4M8+bUk1jO09DPLm1qcuM7Rk2NqNI0ZOhU3scD6PoC47uUmPW+gK0xlt1iuVmF1jev6sp2+Fysx+2Xv0uTHfqaPsmihac+RbxA2lXM8c+99KCVTK0oJT4ztKFRUiLQCrZ2lQDZa6sWJFhpGtJFAaAcD6I666NTLlw6dMr3rJVcTfknbp2VkEjO6ngoJWkY3RQSmztKCU+M7SlKhxHeixGlFYmhSKQpCKZByrFhlWdLppvhfl/ckWOQQrike5dFQFyM7QEqmd0UEps7SglNnaUKQ0DUxufSTbNa4eXJlzatnmQ5C1fxbw73xymUnfTLpLjMbOHzW2a3fEYWjt8pFgQyVYi4mRrayaFgK0gATWcu6A5JHsWgJVM7SglNnaUEokZ2qyqL4i1YI0JC8dCEVabQIppSNRFhkopAVICwJtRogEuQJXM9a6KCU2dpQSiRnarK1FyIugCLR35aIoDoQimgIsKZLAiwEQFgTaRYRrDG5Xp4623tAmsjWWt3l7evqgJwp08ni9LfhrGXDlzz17T1+XO9HWlxmOOEyzlu59uPr7sW23d1aZW5W5ZXdrNVEz9KUKciLUAq2VqVuMOnoBmhFk34tdJwM741PcxdOax3n0/rnP2a/o8OeLfkdR7o88HonDwnbGLy4z9MBe554O2p4xn+EsvjEJunODpyZXxIuPByy73GTzfQF7nPGc3nXvfC5cTHtjPtnr5vq6ZcL9GN+zv1Z/D7/Vd+xhxyy9e7Fyen8NPOVX8Nj/AHUDrhjJhJeLN+ccfX3+GMrcsrlld2mWVt3l1y8s1jHd/SlKhyJt4AVbK6KjWGGXEusMd+/o9vB+lw4c3l92Xr4Nla8nD4HE4l6STH3evh/S4Yz77crPHh6PHslIu1JJOkkntEqZZSd2Llcu9MrWrlpjmt7RJ8LDT063vRYACwAFmPN8ed+GrZ0k64TtvygQPnuBAZFAB82iDOR22gJVsrTK6nR34H014nXL7cP+t/S/T82suL29Hu9vTwGVrOGGPDmscdRaiZZTGboQtuo5ZcTx/tjLK5XdQ5PJW+BYRYZEWEABYQBixGiNIoQAihACKAD5YCI7NFMfzwFMtPrY/wAQAMjy48b8wBNc1gLQLAI1gACwAHGgCMigARQARoAH/9k=");
+background-repeat: no-repeat;    
+background-size: cover;
+background-attachment: fixed;
+
+height: 70px;
+float: rigth;
+}
+.img{
+    height: 70px;
+    float: left;
+}
+.nav0{
+    width: 300px;
+    float: left;
+    width: 500px;
+    font-size: 60px;
+    font-family: fantasy;
+    color: rgb(243, 240, 240);
+    font-style: italic;
+}
+.nav1{
+float: left;
+width: 200px;
+font-size: 25px;
+padding-top:10px ;
+font-family: cursive;
+ color: rgb(243, 240, 240);
+}
+.nav2{
+float: left;
+width: 200px;
+font-size: 25px;
+padding-top:10px ;
+font-family: cursive;
+ color: rgb(243, 240, 240);
+}
+.nav3{
+float: left;
+width: 200px;
+font-size: 25px;
+padding-top:10px ;
+font-family: cursive;
+ color: rgb(243, 240, 240);
+}
+.nav4{
+float: left;
+width: 200px;
+font-size: 25px;
+padding-top:10px ;
+font-family: cursive;
+ color: rgb(243, 240, 240);
+}
+.line{
+    height: 50px;
+    color: aliceblue;
+    width: 1800px;
+}
+.nav0:hover{
+    color:orange;
+    text-shadow: 20px 30px 100px 60px orange;
+    
+
+}
+.nav2:hover{
+    color:orange;
+    text-shadow: 20px 30px 30px 20px orange;
+
+}
+.nav3:hover{
+    color:orange;
+    text-shadow: 20px 30px 30px 20px orange;
+
+}
+.nav4:hover{
+    color:orange;
+    text-shadow: 20px 30px 30px 20px orange;
+
+}
+.nav1:hover{
+    color:orange;
+    text-shadow: 20px 30px 30px 20px orange;
+
+}
+.title{
+    font-size: 80px;
+    text-align: center;
+    
+}
+.box{
+    height: 1000px;
+    width: 1560px;
+    color: rgb(248, 245, 245);
+    font-size: 100px;
+}
+.box1{
+    height: 500px;
+    width:750px;
+    float: left;
+    padding-left: 30px;
+}
+.box2{
+    height: 500px;
+    width:750px;
+    float: left;
+   
+    
+}
+.boxx{
+    position:absolute;
+    padding-left: 200px;
+    
+}
+.name{
+height: 30px;
+width: 200px;
+ font-family: fantasy;
+}
+.pas{
+height: 30px;
+width: 200px;
+ font-family: fantasy;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    font-family: fantasy;
+}
